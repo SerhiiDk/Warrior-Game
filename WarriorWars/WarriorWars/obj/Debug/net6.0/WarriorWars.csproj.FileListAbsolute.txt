@@ -1,0 +1,15 @@
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/bin/Debug/net6.0/WarriorWars
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/bin/Debug/net6.0/WarriorWars.deps.json
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/bin/Debug/net6.0/WarriorWars.runtimeconfig.json
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/bin/Debug/net6.0/WarriorWars.dll
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/bin/Debug/net6.0/WarriorWars.pdb
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/WarriorWars.csproj.AssemblyReference.cache
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/WarriorWars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/WarriorWars.AssemblyInfoInputs.cache
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/WarriorWars.AssemblyInfo.cs
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/WarriorWars.csproj.CoreCompileInputs.cache
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/WarriorWars.dll
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/refint/WarriorWars.dll
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/WarriorWars.pdb
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/WarriorWars.genruntimeconfig.cache
+/Users/serhii/Desktop/Udemy/Lessons/WarriorWars/WarriorWars/obj/Debug/net6.0/ref/WarriorWars.dll
